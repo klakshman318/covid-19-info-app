@@ -1,5 +1,9 @@
 ## covid-19-info-app (COVID20)
 
+<img src="https://i.imgur.com/8emHGfn.jpg" />
+
+<img src="https://i.imgur.com/uVhpBpx.gif" width="300" height="600" />
+
 ## Setup
 
 Install all dependencies by running:
