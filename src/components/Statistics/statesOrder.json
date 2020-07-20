@@ -1,0 +1,182 @@
+[
+    {
+        "id": "001",
+        "shortCode": "AN",
+        "stateName": "Andaman and Nicobar Islands"
+    },
+    {
+        "id": "002",
+        "shortCode": "AP",
+        "stateName": "Andhra Pradesh"
+    },
+    {
+        "id": "003",
+        "shortCode": "AR",
+        "stateName": "Arunachal Pradesh"
+    },
+    {
+        "id": "004",
+        "shortCode": "AS",
+        "stateName": "Assam"
+    },
+    {
+        "id": "005",
+        "shortCode": "BI",
+        "stateName": "Bihar"
+    },
+    {
+        "id": "006",
+        "shortCode": "CH",
+        "stateName": "Chandigarh"
+    },
+    {
+        "id": "007",
+        "shortCode": "CA",
+        "stateName": "Chhattisgarh"
+    },
+    {
+        "id": "008",
+        "shortCode": "DN",
+        "stateName": "Dadra and Nagar Haveli"
+    },
+    {
+        "id": "009",
+        "shortCode": "DD",
+        "stateName": "Daman and Diu"
+    },
+    {
+        "id": "010",
+        "shortCode": "DE",
+        "stateName": "Delhi"
+    },
+    {
+        "id": "011",
+        "shortCode": "GO",
+        "stateName": "Goa"
+    },
+    {
+        "id": "012",
+        "shortCode": "GU",
+        "stateName": "Gujarat"
+    },
+    {
+        "id": "013",
+        "shortCode": "HA",
+        "stateName": "Haryana"
+    },
+    {
+        "id": "014",
+        "shortCode": "HP",
+        "stateName": "Himachal Pradesh"
+    },
+    {
+        "id": "015",
+        "shortCode": "JK",
+        "stateName": "Jammu and Kashmir"
+    },
+    {
+        "id": "016",
+        "shortCode": "JH",
+        "stateName": "Jharkhand"
+    },
+    {
+        "id": "017",
+        "shortCode": "KA",
+        "stateName": "Karnataka"
+    },
+    {
+        "id": "018",
+        "shortCode": "KE",
+        "stateName": "Kerala"
+    },
+    {
+        "id": "019",
+        "shortCode": "LA",
+        "stateName": "Lakshadweep"
+    },
+    {
+        "id": "020",
+        "shortCode": "MP",
+        "stateName": "Madhya Pradesh"
+    },
+    {
+        "id": "021",
+        "shortCode": "MA",
+        "stateName": "Maharashtra"
+    },
+    {
+        "id": "022",
+        "shortCode": "MN",
+        "stateName": "Manipur"
+    },
+    {
+        "id": "023",
+        "shortCode": "ME",
+        "stateName": "Meghalaya"
+    },
+    {
+        "id": "024",
+        "shortCode": "MI",
+        "stateName": "Mizoram"
+    },
+    {
+        "id": "025",
+        "shortCode": "NA",
+        "stateName": "Nagaland"
+    },
+    {
+        "id": "026",
+        "shortCode": "OR",
+        "stateName": "Odisha"
+    },
+    {
+        "id": "027",
+        "shortCode": "PO",
+        "stateName": "Puducherry"
+    },
+    {
+        "id": "028",
+        "shortCode": "PU",
+        "stateName": "Punjab"
+    },
+    {
+        "id": "029",
+        "shortCode": "RA",
+        "stateName": "Rajasthan"
+    },
+    {
+        "id": "030",
+        "shortCode": "SI",
+        "stateName": "Sikkim"
+    },
+    {
+        "id": "031",
+        "shortCode": "TN",
+        "stateName": "Tamil Nadu"
+    },
+    {
+        "id": "032",
+        "shortCode": "TR",
+        "stateName": "Tripura"
+    },
+    {
+        "id": "033",
+        "shortCode": "UP",
+        "stateName": "Uttar Pradesh"
+    },
+    {
+        "id": "034",
+        "shortCode": "UT",
+        "stateName": "Uttarakhand"
+    },
+    {
+        "id": "035",
+        "shortCode": "WB",
+        "stateName": "West Bengal"
+    },
+    {
+        "id": "036",
+        "shortCode": "TL",
+        "stateName": "Telengana"
+    }
+]

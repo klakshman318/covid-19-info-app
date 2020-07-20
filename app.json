@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Covid-19 Information Hub",
+    "description": "Coronavirus Information Hub",
+    "slug": "covid19infohub",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.covid19infohub.mobile",
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 60000,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Covid-19 Information Hub",
+  "name": "covid19infohub"
+}
