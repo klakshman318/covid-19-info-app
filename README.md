@@ -1,4 +1,4 @@
-## covid-19-info-app (COVID20)
+## COVID-19 Information App (COVID-21)
 
 <img src="https://i.imgur.com/8emHGfn.jpg" />
 
